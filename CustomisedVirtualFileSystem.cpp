@@ -1,10 +1,12 @@
 /******************************************************************************
-* Project Name : Customised Virtual File System (VFS)                          
+* Project Name : Customised Virtual File System (CVFS)                          
 *                                                                              
 * Description :                                                                
 * This project implements a simple Virtual File System in RAM to simulate  
 * basic file system operations of Unix/Linux. It uses inode-based architecture
 * and supports regular files only.
+*
+* Language : C
 *
 * Key Concepts :
 * - Superblock to manage free inodes
